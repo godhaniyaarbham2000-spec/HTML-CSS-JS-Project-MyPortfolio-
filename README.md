@@ -46,21 +46,15 @@ HTML+CSS+JS Project (Portfolio Website)/
 
 Clone the repository:
 ```
-
 git clone https://github.com/your-username/portfolio-website.git
-
 ```
 Open project folder:
 ```
-
 cd portfolio-website
-
 ```
 Run project:
 ```
-
 Open index.html in browser
-
 ```
 
 ---

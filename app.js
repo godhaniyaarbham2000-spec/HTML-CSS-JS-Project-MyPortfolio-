@@ -80,3 +80,13 @@ function typeEffect() {
 }
 
 typeEffect();
+
+window.addEventListener("load", () => {
+  document.querySelector("#home").scrollIntoView();
+});
+
+window.addEventListener("load", () => {
+  setTimeout(() => {
+    document.querySelector("#home").scrollIntoView({ behavior: "smooth" });
+  }, 100);
+});

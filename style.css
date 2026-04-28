@@ -438,7 +438,7 @@ footer .text span a:hover{
     width:350px;
   }
 }
-@media (max-width:750px){
+@media (max-width:850px){
    nav .navbar{
      width:90%;
    }
@@ -509,7 +509,7 @@ footer .text span a:hover{
 
 @media (max-width:800px){
   .home .text-two{
-    font-size: 40px;
+    font-size: 36px;
   }
   .home .text-three{
     font-size: 23px;
@@ -518,5 +518,12 @@ footer .text span a:hover{
   .skills-details .boxes .per{
     font-size: 50px;
     color:var(--primary-color);
+  }
+}
+
+@media (max-width: 850px) {
+  .home {
+    background: none;
+    background-color: #fff; /* ya koi color */
   }
 }

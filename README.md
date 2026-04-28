@@ -100,7 +100,7 @@ Open index.html in browser
 **Arbham Godhaniya**  
 MERN Stack Developer 🚀  
 
-- GitHub: github.com/godhaniyaarbham2000-spec  
-- LinkedIn: linkedin.com/in/arbham-godhaniya-9a0554366
+- GitHub:``` github.com/godhaniyaarbham2000-spec  ```
+- LinkedIn:``` linkedin.com/in/arbham-godhaniya-9a0554366```
 
 ---

@@ -29,7 +29,7 @@ A modern responsive portfolio website built using HTML, CSS, and JavaScript, sho
 
 ## 📂 Project Structure
 ```
-HTML+CSS+JS Project (Portfolio Website)/
+HTML-CSS-JS-Project-MyPortfolio/
 │
 ├── index.html     # Main homepage - Home, About, Skills, Contact
 ├── style.css      # All styling - layout, responsive, animations
@@ -46,11 +46,11 @@ HTML+CSS+JS Project (Portfolio Website)/
 
 Clone the repository:
 ```
-git clone https://github.com/your-username/portfolio-website.git
+git clone https://github.com/godhaniyaarbham2000-spec/HTML-CSS-JS-Project-MyPortfolio.git
 ```
 Open project folder:
 ```
-cd portfolio-website
+cd HTML-CSS-JS-Project-MyPortfolio
 ```
 Run project:
 ```
